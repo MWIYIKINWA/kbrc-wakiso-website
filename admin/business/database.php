@@ -1,9 +1,15 @@
 <?php
 
-$dbname = "kbrcdatabase";
-$host = "localhost";
-$username = "root";
-$password = "";
+// $dbname = "kbrcdatabase";
+// $host = "localhost";
+// $username = "root";
+// $password = "";
+// $charset = "utf8mb4";
+
+$dbname = "sql10520776";
+$host = "sql10.freemysqlhosting.net";
+$username = "sql10520776";
+$password = "baBzH1245J";
 $charset = "utf8mb4";
 
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";

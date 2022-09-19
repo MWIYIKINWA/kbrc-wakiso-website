@@ -95,7 +95,7 @@
         <div class="row">
           <div class="col-sm-12 col-lg-6 mb-4 mb-lg-0 pr">
                 <div class="img-head">
-                  <img src="assets/images/m7.JPG" class="img-fluid">
+                  <img src="assets/images/hanning.jpg" class="img-fluid">
                   </div>
                 <div class="details">
                    <p class="text-center my-2 "><strong>Senior Pastor</strong> <br>Pr. Hannington Mutuukiriza<strong> PHD</strong></p>
@@ -149,7 +149,7 @@
         </div>
 
         <div class="col-sm-12 col-lg-6 mb-4 pic">
-          <img src="assets/images/m10.jpg" class="img-fluid" style="border-radius:50%;">
+          <img src="assets/images/m2.jpg" class="img-fluid" style="border-radius:50%;">
            <div class="details">
            <p class="text-center my-2 "><strong>Branch Pastor</strong> <br>Pr. Chris Rubongonya</p>
            </div>

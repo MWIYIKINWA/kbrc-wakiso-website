@@ -55,7 +55,7 @@
   <?php } ?>
 
 
-  <div class="container">
+  <div class="container my-4">
     <div class="row featurette">
     <div class="col-md-7 col-sm-12 text-center">
       <h2 class="featurette-heading fw-normal lh-1 m-4">Doers Of The Word Bible <span class="text-muted">INSTITUTE.</span></h2>
@@ -64,7 +64,7 @@
       <p class="lead fs-4 fw-bold"><em>Its Free</em> &#128512</p>
     </div>
     <div class="col-md-5 col-sm-12">
-      <img src="assets/images/bible.JPG" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
+      <img src="assets/images/bible.JPG" class=" mt-3 bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
       </div>
   </div>
   </div>

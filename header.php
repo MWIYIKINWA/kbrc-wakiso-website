@@ -98,7 +98,7 @@ $linksResults = $content->getLinks();
       </ul>
 
       <div class="col-md-3 text-end give">
-        <button type="button" class="btn btn-outline-info my-2">Give</button>
+        <a type="button" href="contact.php#giving" class="btn btn-outline-info my-2">Give</a>
       </div>
     </header>
 </div>
@@ -126,6 +126,9 @@ $linksResults = $content->getLinks();
           </li>
           <li class="nav-item">
              <a  class="nav-link active text-dark fw-bold" href="sermons.php">Sermons</a>
+          </li>
+          <li class="nav-item">
+             <a  class="nav-link active text-dark fw-bold" href="contact.php">Contact</a>
           </li>
           <li class="nav-item">
              <a  class="nav-link active text-dark fw-bold" href="sermons.php#testimonies">Testimonies</a>
